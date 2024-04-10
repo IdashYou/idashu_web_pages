@@ -1,5 +1,5 @@
 {
     "useRemoteSite": true,
     "remoteSiteURL": "https://idashyou.ng/",
-    remoteSiteLoginURL: "https://idashyou.ng/authpage?tab=login"
+    "remoteSiteLoginURL": "https://idashyou.ng/authpage?tab=login"
 }
