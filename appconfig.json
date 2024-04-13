@@ -2,7 +2,7 @@
     "remoteVersionCode": 5,
     "appUpdateUrlAndroid": "https://idashyou.ng/",
     "appUpdateUrlios": "https://idashyou.ng/",
-    "forceUpdate": true,
+    "forceUpdate": false,
     "useRemoteSite": false,
     "remoteSiteURL": "https://idashyou.ng/",
     "remoteSiteLoginURL": "https://idashyou.ng/authpage?tab=login"
